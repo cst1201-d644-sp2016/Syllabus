@@ -73,7 +73,7 @@ Upon successful completion of the course, the student should be able to:
 
 - Midterm 1 and 2: 35% 
 - Final Exam: 30% 
-- Assignments: 30% 
+- Assignments and quizzes (quizzes if necessary): 30% 
 - Participation: 5%
 
 ## Notes
@@ -85,6 +85,7 @@ Upon successful completion of the course, the student should be able to:
 - Test make-ups will be given if only if:
     - the request is made sufficiently in advance of the test, and
     - the make-up is scheduled prior to the next class.
+- No make-ups will be given for quizzes.
 
 ## Academic Violations
 
