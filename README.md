@@ -92,7 +92,7 @@ Upon successful completion of the course, the student should be able to:
 The instructor of the course has the authority to give a grade of **F** if the
 student submits the work of another person in a manner that represents his/her
 work, or knowingly permits one’s work to be submitted by another person without
-the instructor’s permission.
+the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details.
 
 ## Grade Requirement
 
