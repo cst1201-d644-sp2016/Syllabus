@@ -1,7 +1,5 @@
 # CST 1201: Programming Fundamentals
-## (3 credits, 2 class hours, 2 lab hours)
-### Computer Systems Technology Department
-### New York City College of Technology
+(3 credits, 2 class hours, 2 lab hours), Computer Systems Technology Department, New York City College of Technology
 
 ## Details 
 
@@ -73,7 +71,7 @@ Upon successful completion of the course, the student should be able to:
 
 - Midterm 1 and 2: 35% 
 - Final Exam: 30% 
-- Assignments: 30% 
+- Assignments and quizzes (quizzes if necessary): 30% 
 - Participation: 5%
 
 ## Notes
@@ -85,13 +83,14 @@ Upon successful completion of the course, the student should be able to:
 - Test make-ups will be given if only if:
     - the request is made sufficiently in advance of the test, and
     - the make-up is scheduled prior to the next class.
+- No make-ups will be given for quizzes.
 
 ## Academic Violations
 
 The instructor of the course has the authority to give a grade of **F** if the
 student submits the work of another person in a manner that represents his/her
 work, or knowingly permits one’s work to be submitted by another person without
-the instructor’s permission.
+the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details.
 
 ## Grade Requirement
 
