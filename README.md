@@ -76,14 +76,17 @@ Upon successful completion of the course, the student should be able to:
 
 ## Notes
 
-- **Deadlines** and **due dates** for assignments will be assigned in class.
-- **Late assignments will be penalized.**
-- Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
-- Tests are 60 minutes.
-- Test make-ups will be given if only if:
-    - the request is made sufficiently in advance of the test, and
-    - the make-up is scheduled prior to the next class.
-- No make-ups will be given for quizzes.
+- Assignments
+  - **Deadlines** and **due dates** for assignments will be assigned in class.
+  - **Late assignments will be penalized.**
+  - Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
+  - Coding assignments that **do not compile** will result in an **automatic grade of 0**.
+- Quizzes and exams
+  - Tests are 60 minutes.
+  - Test make-ups will be given if only if:
+      - the request is made sufficiently in advance of the test, and
+      - the make-up is scheduled prior to the next class.
+  - No make-ups will be given for quizzes.
 
 ## Academic Violations
 
@@ -95,7 +98,7 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
 ## Grade Requirement
 
 All majors in CST, CIS, MS, and CIB must attain a grade of C or better in all
-MS and CS courses
+MS and CS courses.
 
 ## Course Assessment
 
