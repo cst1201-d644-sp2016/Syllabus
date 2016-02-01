@@ -39,16 +39,6 @@ Upon successful completion of the course, the student should be able to:
 1. Demonstrate OOP concepts, including composition and inheritance, using the
    Java programming language.
 
-### General Education Outcomes
-- **Skills/Inquiry/Analysis:** Students will employ scientific reasoning and
-  logical thinking.
-- **Skills/Communication:** Students will communicate in diverse settings and
-  groups, using written (both reading and writing), oral (both speaking and
-  listening), and visual means
-- **Values/Ethics/Relationships/Professional/Personal Development:** Students
-  will work with teams, including those of diverse composition. Build
-  consensus.  Respect and use creativity.
-
 ## Materials and Prerequisites
 
 ### Prerequisites
@@ -135,6 +125,16 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
 
 All majors in CST, CIS, MS, and CIB must attain a grade of C or better in all
 MS and CS courses.
+
+### General Education Outcomes
+- **Skills/Inquiry/Analysis:** Students will employ scientific reasoning and
+  logical thinking.
+- **Skills/Communication:** Students will communicate in diverse settings and
+  groups, using written (both reading and writing), oral (both speaking and
+  listening), and visual means
+- **Values/Ethics/Relationships/Professional/Personal Development:** Students
+  will work with teams, including those of diverse composition. Build
+  consensus.  Respect and use creativity.
 
 ## Course Assessment
 
