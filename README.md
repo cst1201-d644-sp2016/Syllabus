@@ -1,22 +1,22 @@
 # CST 1201: Programming Fundamentals
-(3 credits, 2 class hours, 2 lab hours), Computer Systems Technology Department, New York City College of Technology
+(3 credits, 2 class hours, 2 lab hours), Department of Computer Systems Technology, New York City College of Technology, City University of New York
 
 ## Details 
 
-- **Instructor:** [Raffi
-  Khatchadourian](http://openlab.citytech.cuny.edu/khatchad) 
-- **Office:** N913 
-- **Email:**
-  [rkhatchadourian@citytech.cuny.edu](mailto:rkhatchadourian@citytech.cuny.edu)
-- **Phone:** (718) 260-5325 
-- **Office hours:** MW 3-4pm or by appointment
-- **Semester:** Fall 2015 
-- **Section:** CST 1201-D640
+Field | Value
+----- | -----
+**Instructor:** | [Raffi Khatchadourian](http://openlab.citytech.cuny.edu/khatchad) 
+**Office:** | N913 
+**Email:** | [rkhatchadourian@citytech.cuny.edu](mailto:rkhatchadourian@citytech.cuny.edu)
+**Phone:** | (718) 260-5325 
+**Office hours:** | MW 5:40-6:40pm or by appointment
+**Semester:** | Spring 2016 
+**Section:** | CST 1201-D644
 
 ## Course Description
 
 This course is an intensive introduction to computer programming using the Java
-language. Through lectures and lab assignments, students will learn the
+language.  Through lectures and lab assignments, students will learn the
 fundamentals of the Java programming language including control structures and
 user­defined methods. Concepts of Object-Oriented Programming (OOP) will be
 demonstrated through the introduction of classes and inheritance. Java
@@ -28,14 +28,14 @@ with an eye to industry standards.
 
 Upon successful completion of the course, the student should be able to:
 
-1. Install and run the Java runtime environment.
+1. Install and run the Java run time environment.
 1. Develop, compile, and run Java applications.
+1. Code application relevant to business and civic events.
 1. Master control structures in developing applications in the Java programming
    language.
-1. Create simple GUI applications.
-1. Create methods to solve and decompose problems.
+1. Use user-defined methods to implement modular programming techniques.
 1. Create interactive programs to process data and to create acceptable output.
-1. Develop programs using arrays and files.
+1. Develop programs using data arrays and structures.
 1. Demonstrate OOP concepts, including composition and inheritance, using the
    Java programming language.
 
@@ -67,12 +67,47 @@ Upon successful completion of the course, the student should be able to:
   Impatient*](http://books.google.com/books/?id=hA9KngEACAAJ) by [Cay S.
   Horstmann](http://www.horstmann.com)
 
+## Attendance
+
+Attendance is expected at every class meeting.  College policy sets the maximum
+number of permissible absences at 10% of the number of class meetings scheduled
+for the semester.  If the class is meeting two times per week, you are
+permitted to be absent a total of three class sessions; if the class meets
+only once per week, you are permitted to miss one and one-half of the class
+meetings. A student who is absent for more than 15% of the class
+hours in the semester will be assigned a grade of WU (withdrew
+unofficially), subject to the discretion of the instructor. Fifteen percent
+equals eight hours for a course that meets four hours a week, six hours for
+a course that meets three hours a week. A student who does not attend a
+course at all will be assigned a grade of WN (never attended).
+
+## Academic Violations
+
+The instructor of the course has the authority to give a grade of **F** if the
+student submits the work of another person in a manner that represents his/her
+work, or knowingly permits one’s work to be submitted by another person without
+the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details. The instructor is required to **report all violations to the college**.
+
 ## Grading
 
-- Midterm 1 and 2: 35% 
-- Final Exam: 30% 
-- Assignments and quizzes (quizzes if necessary): 30% 
-- Participation: 5%
+Category | Percentage 
+-------- | ----------
+Midterm exams |  35% 
+Final exams |  30% 
+Assignments and quizzes (quizzes if necessary) | 30% 
+Participation and attendance | 5%
+
+Letter Grade | Numerical Grade
+------------ | ---------------
+A | 93-100
+A- | 90-92.9
+B+ | 87-89.9
+B | 83-86.9
+B- | 80-82.9
+C+ | 77-79.9
+C | 70-76.9
+D | 60-69.9
+F | <=59.9
 
 ## Notes
 
@@ -80,6 +115,7 @@ Upon successful completion of the course, the student should be able to:
   - **Deadlines** and **due dates** for assignments will be assigned in class.
   - **Late assignments will be penalized.**
   - Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
+  - Group assignments are the result of **group effort by the particular group only**.
   - Coding assignments that **do not compile** will result in an **automatic grade of 0**.
 - Quizzes and exams
   - Tests are 60 minutes.
