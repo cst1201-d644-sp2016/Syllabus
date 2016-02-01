@@ -121,9 +121,6 @@ F | <=59.9
       - the make-up is scheduled prior to the next class.
   - No make-ups will be given for quizzes.
 
-## Closed labs
-Lab assignments will be done in groups of two students. 
-
 ## Academic Violations
 
 The instructor of the course has the authority to give a grade of **F** if the
