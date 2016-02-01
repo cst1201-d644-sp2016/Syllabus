@@ -57,6 +57,11 @@ Upon successful completion of the course, the student should be able to:
   Impatient*](http://books.google.com/books/?id=hA9KngEACAAJ) by [Cay S.
   Horstmann](http://www.horstmann.com)
 
+### Optional Resources
+
+1. Please join the [GitHub organization](http://github.com/cst1201-d644-sp2016) for our course for coding discussion.
+1. Please join the [OpenLab course](http://openlab.citytech.cuny.edu/groupscst1201-programming-fundamentals-fa2016/) for class discussion.
+
 ## Attendance
 
 Attendance is expected at every class meeting.  College policy sets the maximum
