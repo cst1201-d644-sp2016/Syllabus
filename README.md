@@ -235,30 +235,31 @@ The following is a target scheduling guideline. Please see the Blackboard calend
 
 Date | Topic | Details | Reading Due
 ---- | ----- | ------- | -----------
-September 2, 2015 | Introduction to Java Programming. | | Read Chapter 1.
-September 9, 2015 | Introduction to the Java IDE. | Introduction to the Java development environment (NetBeans). | Read Chapter 2.1.
-September 16, 2015 | Java Fundamentals Part 1 | Data types, operators, data conversion. | Read Chapter 2.2-2.8.
-September 21, 2015 | Java Fundamentals Part 2 | String class. | Read Chapter 2.9.
-September 28, 2015 | Java Fundamentals Part 3 | Dialog boxes, keyboard input. | Read Chapter 2.10-2.14.
-September 30, 2015 | Decision Structures Part 1 | `if`/`then`/`else`. | Read Chapter 3.1-3.4.
-October 5, 2015 | Decision Structures Part 2 | Logical operators, comparing `String`s. | Read Chapter 3.5-3.7.
-October 7, 2015 | Control structure – loops | `while`, `do`-`while`, and `for` loop. Nested loops. | Read Chapter 4.1-4.4.
-October 14, 2015 | Review for test | More looping. | Read Chapter 4.5-4.9.
-October 19, 2015 | Test 1 |||
-October 21, 2015 | File input and output, random numbers | | Read Chapters 4.10-4.11.
-October 26, 2015 | Methods 1 | Introduction to methods, argument passing, and local variables. | Read Ch. 5.1-5.3.
-October 28, 2015 | Methods 2 | Value returning methods, problem solving with methods. | Read Chapters 5.4-5.6.
-November 2, 2015 | Classes and Objects | | Read Chapters 6.1-6.2.
-November 4, 2015 | Instance Fields and Methods | | Read Chapter 6.3.
-November 9, 2015 | Constructors | | Read Chapter 6.4.
-November 11, 2015 | Passing Objects as Arguments | | Read Chapter 6.5.
-November 16, 2015 | Overloading Methods and Constructors | | Read Chapter 6.6–6.10.
-November 18, 2015 | Test Review | | Read Chapter 7.1.
-November 23, 2015 | Test 2 | | 
-November 25, 2015 | Introduction to arrays part 1 | Processing an array, and passing and returning an array. | Read Chapter 7.2–7.5.
-November 30, 2015 | Introduction to arrays part 2 | String arrays, arrays of objects, and sequential search. | Read Chapter 7.6–7.8.
-December 2, 2015 | Multiple dimensioned arrays | | Read Chapters 7.9-7.10.
-December 7, 2015 | Sorting, searching, and command line arguments | | Read Chapters 7.11-7.12.
-December 9, 2015 | The `ArrayList` class | | Read chapters 7.13-7.14.
-December 14, 2015 | Final exam review, Graphical User Interfaces (GUIs) | | Read Chapter 12.
-December 21, 2015 | Final Exam | |
+February 3, 2016 | Introduction to Java Programming. | | Read Chapter 1.
+February 8, 2016 | Introduction to the Java IDE. | Introduction to the Java development environment (Eclipse). | Read Chapter 2.1.
+February 10, 2016 | Java Fundamentals Part 1 | Data types, operators, data conversion. | Read Chapter 2.2-2.8.
+February 17, 2016 | Java Fundamentals Part 2 | String class. | Read Chapter 2.9.
+February 22, 2016 | Java Fundamentals Part 3 | Scope, comments, programming style, keyboard input. | Read Chapter 2.10-2.13, 2.15.
+February 24, 2016 | Decision Structures Part 1 | `if`/`then`/`else`. | Read Chapter 3.1-3.4.
+February 29, 2016 | Decision Structures Part 2 | Logical operators, comparing `String`s. | Read Chapter 3.5-3.7, 3.11.
+March 2, 2016 | Control structure – loops | `while`, `do`-`while`, and `for` loop. Nested loops. | Read Chapter 4.1-4.4.
+March 7, 2016 | Review for test | More looping. | Read Chapter 4.5-4.9.
+March 9, 2016 | Midterm exam 1 |||
+March 14, 2016 | File input and output, random numbers | | Read Chapters 4.10-4.11, 4.12.
+March 16, 2016 | Methods 1 | Introduction to methods, argument passing, and local variables. | Read Ch. 5.1-5.3.
+March 21, 2016 | Methods 2 | Value returning methods, problem solving with methods. | Read Chapters 5.4-5.6.
+March 28, 2016 | Classes and Objects | | Read Chapters 6.1-6.2.
+March 30, 2016 | Instance Fields and Methods | | Read Chapter 6.3.
+April 4, 2016 | Constructors | | Read Chapter 6.4.
+April 6, 2016 | Passing Objects as Arguments | | Read Chapter 6.5.
+April 11, 2016 | Overloading Methods and Constructors | | Read Chapter 6.6–6.10.
+April 13, 2016 | Test Review | | Read Chapter 7.1.
+April 18, 2016 | Midterm exam 2 | | 
+April 20, 2016 | Introduction to arrays part 1 | Processing an array, and passing and returning an array. | Read Chapter 7.2–7.5.
+May 2, 2016 | Introduction to arrays part 2 | String arrays, arrays of objects, and sequential search. | Read Chapter 7.6–7.8.
+May 4, 2016 | Multi-dimension arrays | | Read Chapters 7.9-7.10.
+May 9, 2016 | Sorting, searching, and command line arguments | | Read Chapters 7.11-7.12.
+May 11, 2016 | The `ArrayList` class | | Read chapters 7.13-7.14.
+May 16, 2016 | `static` class members, `this` reference, enumerated types. | | Read Chapter 12.
+May 18, 2016 | Final exam review, inheritance. | | Read Chapter 10. 
+May 25, 2016 | Final exam | |
