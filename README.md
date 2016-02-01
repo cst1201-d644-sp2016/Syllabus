@@ -105,14 +105,24 @@ F | <=59.9
   - **Deadlines** and **due dates** for assignments will be assigned in class.
   - **Late assignments will be penalized.**
   - Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
-  - Group assignments are the result of **group effort by the particular group only**.
   - Coding assignments that **do not compile** will result in an **automatic grade of 0**.
+- Closed labs
+  - Lab assignments will be completed by groups of two students. 
+  - Groups will have the entire class period (1h 30m) to complete the lab assignment.
+  - Labs are due at the end of the class period.
+  - Group members not present on the day of the lab **will not** receive credit.
+  - Labs are the result of **group effort by the particular group only**.
+  - Lab dates will be announced one week in advance.
 - Quizzes and exams
+  - All quizzes and exams must be completed on laboratory computers.
   - Tests are 60 minutes.
   - Test make-ups will be given if only if:
       - the request is made sufficiently in advance of the test, and
       - the make-up is scheduled prior to the next class.
   - No make-ups will be given for quizzes.
+
+## Closed labs
+Lab assignments will be done in groups of two students. 
 
 ## Academic Violations
 
