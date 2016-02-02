@@ -109,7 +109,8 @@ F | <=59.9
 - Assignments
   - **Deadlines** and **due dates** for assignments will be assigned in class.
   - **Late assignments will be penalized.**
-  - Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
+  - No extensions will be given for extra credit assignments.
+  - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
   - Coding assignments that **do not compile** will result in an **automatic grade of 0**.
 - Closed labs
   - Lab assignments will be completed by groups of two students. 
