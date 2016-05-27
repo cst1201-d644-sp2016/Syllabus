@@ -88,7 +88,7 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
 Category | Percentage 
 -------- | ----------
 Midterm exams |  35% 
-Final exams |  30% 
+Final exam |  30% 
 Assignments and quizzes (quizzes if necessary) | 30% 
 Participation and attendance | 5%
 
